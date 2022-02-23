@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboHash/static/css/main.cca68fa1.css",
+    "main.js": "/RoboHash/static/js/main.79a60780.js",
+    "static/js/787.13ca45e4.chunk.js": "/RoboHash/static/js/787.13ca45e4.chunk.js",
+    "static/media/SEGA.woff": "/RoboHash/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboHash/index.html",
+    "main.cca68fa1.css.map": "/RoboHash/static/css/main.cca68fa1.css.map",
+    "main.79a60780.js.map": "/RoboHash/static/js/main.79a60780.js.map",
+    "787.13ca45e4.chunk.js.map": "/RoboHash/static/js/787.13ca45e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cca68fa1.css",
+    "static/js/main.79a60780.js"
+  ]
+}
